@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.admin:hover, .copyright:hover   {
+    background-color: rgb(232, 216, 110);
+    color: brown;
+}
+
