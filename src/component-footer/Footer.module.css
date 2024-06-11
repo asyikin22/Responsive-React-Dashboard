@@ -8,7 +8,9 @@
 }
 
 .admin:hover, .copyright:hover   {
-    background-color: rgb(232, 216, 110);
-    color: brown;
+    background-color: rgba(113, 193, 236, 0.8);
+    color: rgb(42, 95, 165);
+    padding: 5px;
+    border-radius: 5px;
 }
 

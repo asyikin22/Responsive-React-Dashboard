@@ -10,9 +10,9 @@ const Navbar = () => {
         <div className={styles.logo}>
           <img src="student.png" 
                alt="book" 
-               style={{ width: '50px', height: '50px' }}>
+               style={{ width: '40px', height: '40px' }}>
             </img>
-          <span>Goodreads Library</span>
+          <span className={styles.span}>Goodreads Library</span>
         </div>
         
         <div className={styles.icons}>
